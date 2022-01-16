@@ -1,3 +1,0 @@
-@function vw($value, $base: 1920) {
-  @return $value / $base * vw(100);
-}
